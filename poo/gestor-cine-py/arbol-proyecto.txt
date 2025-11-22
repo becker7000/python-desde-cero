@@ -1,0 +1,47 @@
+gestor_cine/
+│
+├── main.py
+│
+├── usuarios/
+│   ├── __init__.py
+│   ├── usuario.py
+│   ├── administrador.py
+│   ├── vendedor.py
+│   └── cliente.py
+│
+├── gestion/
+│   ├── __init__.py
+│   ├── validaciones.py
+│   └── gestor_usuarios.py
+│
+├── menus/
+│   ├── __init__.py
+│   ├── menu_login.py
+│   ├── menu_registro.py
+│   └── menu_principal.py
+│
+└── datos/
+    └── usuarios.json     ← (se crea automáticamente si no existe)
+
+
+Primero:
+
+✔ usuarios/usuario.py
+✔ usuarios/administrador.py
+✔ usuarios/vendedor.py
+✔ usuarios/cliente.py
+
+Luego:
+
+✔ gestion/validaciones.py
+✔ gestion/gestor_usuarios.py
+
+Luego los menús:
+
+✔ menus/menu_login.py
+✔ menus/menu_registro.py
+✔ menus/menu_principal.py
+
+Por último:
+
+✔ main.py
