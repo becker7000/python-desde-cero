@@ -1,0 +1,12 @@
+[
+    {
+        "nombre": "Laura",
+        "apellido_paterno": "Lopez",
+        "apellido_materno": "Jimenez",
+        "edad": 22,
+        "nickname": "lau22lop",
+        "password": "1234",
+        "correo": "lau22lop@fakemail.com",
+        "celular": "5512345678"
+    }
+]
